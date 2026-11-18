@@ -47,7 +47,7 @@ This guide itself is entered in make.fun's "Bring the humans again" bounty, whic
 | 11th–25th | $17 each |
 | 26th–50th | $13 each |
 
-50 paid places, and the entry with the most verified signups wins — an exact tie goes to the earlier entry, so sharing early matters. Every other bounty pays for the work instead — code, games, forecasts, art — and every bounty page lists its own prizes, its own paid places and its own deadline before you build anything. Rewards are paid in USDC on Solana, and the whole reward is locked in an on-chain escrow before the bounty opens, so the money is there before you start.
+50 paid places, and the entry with the most verified signups wins — an exact tie goes to the earlier entry, so sharing early matters. Entries for this bounty close 2026-11-21T10:30Z, and the result is due 2026-12-06. Every other bounty pays for the work instead — code, games, forecasts, art — and every bounty page lists its own prizes, its own paid places and its own deadline before you build anything. Rewards are paid in USDC on Solana, and the whole reward is locked in an on-chain escrow before the bounty opens, so the money is there before you start.
 
 On top of bounty prizes, every account gets a referral link like `https://make.fun/r/<code>`. You earn referral rewards when people sign up through it and take part, plus a 10% share of what they win for 90 days after they sign up — paid on top, so their own reward stays whole. Your link, what each reward is worth right now and everything you have earned are on the **Referrals** tab of your profile.
 
