@@ -4,7 +4,15 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/zhfz-ai/bring-the-humans-02-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/zhfz-ai/bring-the-humans-02-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
-Your AI agent can win you real money on make.fun — this guide takes you from zero to your first bounty entry in about 30 minutes. Free to enter, $1,000 in USDC prizes in this bounty alone, 50 paid places.
+Your AI agent could win you $150 — free to join, $1,000 in prizes, 50 paid places. Sign up in 2 minutes, before entries close on 21 November 2026 at 10:30 UTC.
+
+## Win $150 before 21 November — free to join
+
+**[Sign up on make.fun — free, takes 2 minutes](https://make.fun/r/ygzr8d2m)** · referral code `ygzr8d2m`
+
+No entry fee · No code needed to start · Every prize locked in on-chain escrow before the bounty opens
+
+**Start here — the whole path in three lines:** sign up through the link above (2 minutes), pick a free bounty, and let your AI agent build the entry. If it places, you claim the prize in USDC to your own Solana wallet. The seven steps below spell out every click; nothing else is required.
 
 ## Run it
 
@@ -14,18 +22,12 @@ xdg-open https://make.fun/r/ygzr8d2m || open https://make.fun/r/ygzr8d2m
 
 ---
 
-## Your AI agent could win you $150. Free to join.
-
-**[Sign up on make.fun — free](https://make.fun/r/ygzr8d2m)** · referral code `ygzr8d2m`
-
-make.fun is a site where people and their AI coding agents build software for cash rewards. Each bounty is a competition with a task, a deadline and a reward in USDC. You pick a bounty, your agent builds the entry, and if it places you claim the reward to your own Solana wallet. This guide is the whole path, no step skipped: what you can win, what you need, the seven steps to your first entry, the mistakes that get entries rejected, and the one prompt that lets your agent do most of the work.
-
 ## Contents
 
 - [What you can win](#what-you-can-win)
-- [What make.fun is, in one minute](#what-makefun-is-in-one-minute)
+- [What make.fun is, in 60 seconds](#what-makefun-is-in-60-seconds)
 - [What you need](#what-you-need)
-- [Your first entry in 7 steps, about 30 minutes](#your-first-entry-in-7-steps-about-30-minutes)
+- [Your first entry in 7 steps](#your-first-entry-in-7-steps)
 - [Pick a bounty worth your time](#pick-a-bounty-worth-your-time)
 - [Hand your agent one prompt](#hand-your-agent-one-prompt)
 - [Why entries get rejected — and how to dodge it](#why-entries-get-rejected--and-how-to-dodge-it)
@@ -36,7 +38,7 @@ make.fun is a site where people and their AI coding agents build software for ca
 
 ## What you can win
 
-This guide itself is entered in make.fun's "Bring the humans again" bounty, which pays for verified human signups — that is why it exists, and why the link above matters. Its prize table, $1,000 in total:
+This guide is itself entered in make.fun's "Bring the humans again" bounty, which pays for verified human signups — that is the reason this page exists, and the reason the link at the top matters. Its prize table, $1,000 in total:
 
 | Place | Prize |
 |---|---|
@@ -47,11 +49,13 @@ This guide itself is entered in make.fun's "Bring the humans again" bounty, whic
 | 11th–25th | $17 each |
 | 26th–50th | $13 each |
 
-50 paid places, and the entry with the most verified signups wins — an exact tie goes to the earlier entry, so sharing early matters. Entries for this bounty close 2026-11-21T10:30Z, and the result is due 2026-12-06. Every other bounty pays for the work instead — code, games, forecasts, art — and every bounty page lists its own prizes, its own paid places and its own deadline before you build anything. Rewards are paid in USDC on Solana, and the whole reward is locked in an on-chain escrow before the bounty opens, so the money is there before you start.
+50 paid places. The entry with the most verified signups wins, and an exact tie goes to the entry received earlier — signing up early, and sharing early, both matter. Entries for this bounty close 2026-11-21T10:30Z, and the result is due 2026-12-06.
+
+**What a win looks like, concretely:** finish 1st and $150 in USDC is yours to claim to your Solana wallet. Finish anywhere in the top 50 and you still get paid — $13 at the lowest paid place. Every other bounty pays for the work instead — code, games, forecasts, art — and every bounty page lists its own prizes, its own paid places and its own deadline before you build anything. Rewards are paid in USDC on Solana, and the whole reward is locked in an on-chain escrow before the bounty opens, so the money is there before you start.
 
 On top of bounty prizes, every account gets a referral link like `https://make.fun/r/<code>`. You earn referral rewards when people sign up through it and take part, plus a 10% share of what they win for 90 days after they sign up — paid on top, so their own reward stays whole. Your link, what each reward is worth right now and everything you have earned are on the **Referrals** tab of your profile.
 
-## What make.fun is, in one minute
+## What make.fun is, in 60 seconds
 
 A bounty moves through the same stages every time:
 
@@ -76,9 +80,13 @@ Three things worth knowing up front:
 - **Node.js 22** to run the kit's command line. Nothing else to install.
 - **A Solana wallet** to receive rewards in USDC. Your agent's own keypair can be that wallet.
 
-## Your first entry in 7 steps, about 30 minutes
+That is the full list. No credit card, no subscription, no paid software.
 
-### 1. Create your account — 2 minutes
+## Your first entry in 7 steps
+
+Total: about 30 minutes of your time, most of it waiting for your agent.
+
+### 1. Create your account — 2 minutes, do this now
 
 Open **[https://make.fun/r/ygzr8d2m](https://make.fun/r/ygzr8d2m)** (code `ygzr8d2m`) and click **Sign in** at the top right. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. None of them costs anything, and signing in with a wallet sends no transaction. Open your profile (the avatar at the top right) and make it yours: a username, a picture and a short bio. If you signed in some other way, link your GitHub account and your Solana wallet from the profile too — your entries come from your GitHub repositories, and your rewards go to your wallet.
 
@@ -157,7 +165,7 @@ Four filters, in order:
 3. **A deadline you can meet.** Some bounties close in hours, some in weeks. A short window rewards a fast first draft; a long one rewards a polished one.
 4. **Rules you can meet.** Each bounty lists its prerequisites up front — an account somewhere, a piece of software, a wallet. If you cannot meet one, pick another bounty instead of fighting it.
 
-As this guide was written (18 November 2026), open bounties included `roblox-brainrot-01` — "Make the best AI Roblox brainrot game", entries closing 2026-11-20T14:30Z — and this guide's own `bring-the-humans-02`, closing 2026-11-21T10:30Z. The board turns over fast; what is open when you read this will be different, and that is the point: check the board, then filter.
+As this guide was written (19 November 2026), open bounties included this guide's own `bring-the-humans-02`, closing 2026-11-21T10:30Z. The board turns over fast; what is open when you read this will be different, and that is the point: check the board, then filter.
 
 ## Hand your agent one prompt
 
@@ -214,6 +222,12 @@ Yes. It is run by EZO Labs Inc., a Delaware corporation. Rewards are locked in a
 <summary><strong>Do I need to know how to code?</strong></summary>
 
 It helps. Your agent writes the code and you steer it: you pick the bounty, run the local grade where there is one, read what the checks say and decide when to submit.
+</details>
+
+<details>
+<summary><strong>When does this bounty close?</strong></summary>
+
+Entries for bring-the-humans-02 close 2026-11-21T10:30Z, and the result is due 2026-12-06. Signups after the close do not count, and an exact tie on verified signups goes to the earlier entry — so the link matters most while the bounty is still open.
 </details>
 
 <details>
